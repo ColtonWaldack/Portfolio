@@ -31,7 +31,7 @@ export const examplesData = {
 };
 export const awardData = {
   img: 'award.png',
-  paragraphOne: 'I have always strived to be my best. In the process I have been awarded various commendations. These include both dean’s list, and presidential scholar awards. The varying requirements for each of these rewards can be found at the links below.   ',
+  paragraphOne: 'I have always strived to be my best. In the process I have been awarded various commendations. These include both Dean’s list, and Presidential Scholar Awards. The varying requirements for each of these rewards can be found at the links below.   ',
   paragraphThree: '',
   link: 'https://www.nvcc.edu/apps/1/deanslist/deanslist2203.aspx', // if no resume, the button will not show up
   link2: 'https://marymount.smartcatalogiq.com/en/2017-2018/Catalogs/Undergraduate-Catalog/Academic-Information-and-Policies/Academic-Honors/Dean-s-List', // if no resume, the button will not show up
@@ -105,7 +105,7 @@ export const awardsData = [
     id: nanoid(),
     img: 'mm.PNG',
     title: 'Marymount University',
-    info: 'At Marymount University I have been placed on the Deans list every semester I have attended. The deans list is Marymount highest term honor. I currently have a GPA of 3.944. I am also a part of Upsilon Pi Epsilon, the information technology honor society ',
+    info: 'At Marymount University I have been placed on the Dean’s list every semester I have attended. The Dean’s list is Marymount highest term honor. I currently have a GPA of 3.944. I am also a part of Upsilon Pi Epsilon, the information technology honor society. ',
     info2: '',
     url: 'https://marymount.smartcatalogiq.com/en/2017-2018/Catalogs/Undergraduate-Catalog/Academic-Information-and-Policies/Academic-Honors/Dean-s-List',
     repo: '', // if no repo, the button will not show up
