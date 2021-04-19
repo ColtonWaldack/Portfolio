@@ -39,6 +39,11 @@ const Header = () => {
                 {cta || 'Learn about me'}
               </Link>
             </span>
+            <span className="back-to-middle">
+          <Link to="about" smooth duration={1000}>
+            <i className="fa fa-angle-down fa-2x" aria-hidden="true" />
+          </Link>
+        </span>
           </p>
         </Fade>
       </Container>
